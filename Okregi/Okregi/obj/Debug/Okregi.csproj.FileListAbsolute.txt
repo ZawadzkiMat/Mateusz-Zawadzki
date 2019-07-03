@@ -1,0 +1,10 @@
+C:\Users\matza\Desktop\Okregi\Okregi\bin\Debug\Okregi.exe.config
+C:\Users\matza\Desktop\Okregi\Okregi\bin\Debug\Okregi.exe
+C:\Users\matza\Desktop\Okregi\Okregi\bin\Debug\Okregi.pdb
+C:\Users\matza\Desktop\Okregi\Okregi\obj\Debug\Okregi.csprojAssemblyReference.cache
+C:\Users\matza\Desktop\Okregi\Okregi\obj\Debug\Okregi.Form1.resources
+C:\Users\matza\Desktop\Okregi\Okregi\obj\Debug\Okregi.Properties.Resources.resources
+C:\Users\matza\Desktop\Okregi\Okregi\obj\Debug\Okregi.csproj.GenerateResource.cache
+C:\Users\matza\Desktop\Okregi\Okregi\obj\Debug\Okregi.csproj.CoreCompileInputs.cache
+C:\Users\matza\Desktop\Okregi\Okregi\obj\Debug\Okregi.exe
+C:\Users\matza\Desktop\Okregi\Okregi\obj\Debug\Okregi.pdb
